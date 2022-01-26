@@ -1,0 +1,6 @@
+n = input("请输入一个整数n：")
+pi = 1
+while n>=1:
+    pi = pi * (2*n)*(2*n)/((2*n-1)*(2*n+1))
+    n = n-1
+print(2*pi)

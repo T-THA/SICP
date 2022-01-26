@@ -1,0 +1,6 @@
+'combinations-correct', (0, 66)
+'over-or-under-correct', (512, 66)
+'make-adder-correct', (1024, 66)
+'composed-correct', (1536, 66)
+'gcd-correct', (2048, 66)
+'ordered-correct', (2560, 66)
